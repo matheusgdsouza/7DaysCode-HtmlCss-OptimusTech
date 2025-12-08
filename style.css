@@ -2,6 +2,7 @@
 
 @import url(./style/cabecalho.css);
 @import url(./style/banner-principal.css);
+@import url(./style/metricas-resultados.css);
 
 :root {
     --cor-fonte-cabecalho-: #000000a6;
