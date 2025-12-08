@@ -1,0 +1,27 @@
+.banner-principal {
+    font-family: var(--fonte-inter-);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2em;
+}
+
+.banner-principal__sobre-nos {
+    color: var(--vermelho-texto-);
+    font-weight: 700;
+    font-size: 0.85em;
+}
+
+.banner-principal__titulo {
+    font-size: 3em;
+    font-weight: 600;
+    color: var(--cinza-texto-);
+}
+
+.banner-principal__texto {
+    font-size: 1.25em;
+    color: var(--cinza-claro-texto);
+    width: 60%;
+    text-align: center;
+    line-height: 1.5em;
+}

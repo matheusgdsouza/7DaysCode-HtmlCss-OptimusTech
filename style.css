@@ -1,9 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 @import url(./style/cabecalho.css);
-
+@import url(./style/banner-principal.css);
 
 :root {
     --cor-fonte-cabecalho-: #000000a6;
-    --fonte-nunito-: "Nunito", sans-serif;
+    --fonte-inter-: "Inter", sans-serif;
+    --vermelho-texto-: #8E2424;
+    --cinza-texto-: #101828;
+    --cinza-claro-texto: #667085;
+}
+
+.centeudo-principal {
+    padding: 4em 2em;
 }
