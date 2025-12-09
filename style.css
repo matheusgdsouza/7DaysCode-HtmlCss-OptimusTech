@@ -5,6 +5,7 @@
 @import url(./style/metricas-resultados.css);
 @import url(./style/apresentacao-vagas.css);
 @import url(./style/vagas-disponiveis.css);
+@import url(./style/feedback-colaboradores.css);
 
 :root {
     --cor-fonte-cabecalho-: #000000a6;

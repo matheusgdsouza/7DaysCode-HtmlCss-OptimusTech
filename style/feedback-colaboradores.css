@@ -1,0 +1,49 @@
+.feedback-colaboradores {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 3em auto;
+    background: rgba(195, 25, 25, 0.03);
+    gap: 2em;
+    padding: 3em 5em;
+    font-family: var(--fonte-inter-);
+    text-align: center;
+    border-radius: 15px;
+}
+
+.titulo-feedback-colaboradores {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: var(--vermelho-texto-);
+}
+
+.feedback-colaboradores__texto {
+    font-size: 2.25em;
+    font-weight: 500;
+    color: var(--cinza-texto);
+}
+
+.feedback-colaboradores__icone {
+    width: 56px;
+    height: 56px;
+}
+
+.container__feedback-colaboradores {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.nome-colaborador {
+    font-size: 1em;
+    font-weight: 500;
+    color: var(--cinza-texto);
+}
+
+.cargo-colaborador {
+    font-size: 0.9em;
+    font-weight: 400;
+    color: var(--cinza-claro-texto);
+}
