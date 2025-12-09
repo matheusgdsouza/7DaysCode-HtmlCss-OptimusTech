@@ -1,0 +1,29 @@
+.apresentacao-vagas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2em;
+    font-family: var(--fonte-inter-);
+}
+
+.apresentacao-vagas__subtitulo {
+    font-size: 0.9em;
+    color: var(--vermelho-texto-);
+    font-weight: 500;
+    padding: 0.5em;
+    border-radius: 10px;
+    background: rgba(142, 36, 36, 0.05);
+}
+
+.apresentacao-vagas__titulo {
+    font-size: 2.25em;
+    font-weight: 600;
+    color: var(--cinza-texto-);
+}
+
+.apresentacao-vagas__texto {
+    font-size: 1.25em;
+    font-weight: 400;
+    color: var(--cinza-claro-texto);
+    padding-bottom: 2em;
+}
