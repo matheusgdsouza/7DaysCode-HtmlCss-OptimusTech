@@ -4,6 +4,7 @@
 @import url(./style/banner-principal.css);
 @import url(./style/metricas-resultados.css);
 @import url(./style/apresentacao-vagas.css);
+@import url(./style/vagas-disponiveis.css);
 
 :root {
     --cor-fonte-cabecalho-: #000000a6;
