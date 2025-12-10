@@ -1,0 +1,51 @@
+.rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5em;
+    background-color: var(--cinza-background-);
+    gap: 2em;
+    font-family: var(--fonte-inter-);
+}
+
+.rodape__titulo {
+    font-size: 2.25em;
+    font-weight: 600;
+    color: var(--cinza-texto-);
+}
+
+.rodape__subtitulo {
+    font-size: 1.25em;
+    font-weight: 400;
+    color: var(--cinza-claro-texto);
+}
+
+.rodape__campo-cadastro {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+.email-cadastro {
+    padding: 1em 10em 1em 1em;
+    border-radius: 10px;
+    border: rgba(0, 0, 0, 0.174) solid 1px;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.botao-cadastro {
+    padding: 1em 2em;
+    background-color: var(--vermelho-texto-);
+    color: #FFFFFF;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    font-size: 1em;
+}
+
+.rodape__texto {
+    font-size: 1em;
+    font-weight: 400;
+    color: var(--cinza-claro-texto);
+}

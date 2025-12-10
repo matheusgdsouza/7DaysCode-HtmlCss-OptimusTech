@@ -6,6 +6,7 @@
 @import url(./style/apresentacao-vagas.css);
 @import url(./style/vagas-disponiveis.css);
 @import url(./style/feedback-colaboradores.css);
+@import url(./style/rodape.css);
 
 :root {
     --cor-fonte-cabecalho-: #000000a6;
@@ -13,6 +14,7 @@
     --vermelho-texto-: #8E2424;
     --cinza-texto-: #101828;
     --cinza-claro-texto: #667085;
+    --cinza-background-: #F9FAFB;
 }
 
 .centeudo-principal {
